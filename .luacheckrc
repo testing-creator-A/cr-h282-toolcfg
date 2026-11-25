@@ -1,0 +1,1 @@
+error("H282-LUACHECK-HEAD")
