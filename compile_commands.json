@@ -1,0 +1,7 @@
+[
+  {
+    "directory": ".",
+    "command": "sh probe-cc.sh -c probe.c -o probe.o",
+    "file": "probe.c"
+  }
+]

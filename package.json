@@ -1,0 +1,8 @@
+{
+  "name": "cr-h282-toolcfg",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "9.38.0"
+  }
+}

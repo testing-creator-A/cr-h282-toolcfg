@@ -1,0 +1,8 @@
+[package]
+name = "h282-probe"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "h282-probe"
+path = "probe.rs"
